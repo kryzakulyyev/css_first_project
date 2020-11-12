@@ -1,0 +1,28 @@
+body{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  color: #EEF3FD;
+  background-color:#4F5C77;
+}
+.introduction{
+  font-family: serif;
+  font-size: :16px;
+  font-weight: bold;
+}
+figure img{
+  width: 100%;
+}
+.small{
+  font-size: 12px;
+}
+.link{
+  color: red;
+  font-size: 16px;
+}
+ul{ 
+  font-weight: :bold;
+  font-size: 14px;
+  list-style-type: "-" ;
+}
+footer img { width:100px;
+  border-radius: 50%;
+}
